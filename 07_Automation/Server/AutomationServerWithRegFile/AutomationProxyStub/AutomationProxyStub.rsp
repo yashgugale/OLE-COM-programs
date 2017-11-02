@@ -1,0 +1,6 @@
+/h AutomationProxyStubHeader.h
+/iid AutomationProxyStubGuids.c
+/dlldata AutomationProxyStubDlldata.c
+/proxy AutomationProxyStub.c
+/out E:\Automation\AutomationServerWithRegFile\AutomationProxyStub
+E:\Automation\AutomationServerWithRegFile\AutomationProxyStub\VDGAutomationServerTypeLib.idl

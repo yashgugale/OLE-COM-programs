@@ -1,0 +1,4 @@
+#include<windows.h>
+// icon
+APPICON ICON MyIcon.ico
+1 TYPELIB "VDGAutomationServerTypeLib.tlb"

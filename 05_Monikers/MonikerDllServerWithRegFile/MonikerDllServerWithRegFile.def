@@ -1,0 +1,4 @@
+LIBRARY MonikerDllServerWithRegFile
+EXPORTS
+      DllGetClassObject   @100 PRIVATE
+      DllCanUnloadNow     @101 PRIVATE

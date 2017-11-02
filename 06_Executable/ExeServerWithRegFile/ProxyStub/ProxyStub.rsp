@@ -1,0 +1,6 @@
+/h ProxyStubHeader.h
+/iid ProxyStubGuids.c
+/dlldata ProxyStubDlldata.c
+/proxy ProxyStub.c
+/out E:\PROGRA~1\MICROS~3\MYPROJ~1\COM_CO~1\06_EXE~1\WITHRE~1\EXESER~1\PROXYS~1
+E:\PROGRA~1\MICROS~3\MYPROJ~1\COM_CO~1\06_EXE~1\WITHRE~1\EXESER~1\PROXYS~1\ProxyStub.idl
